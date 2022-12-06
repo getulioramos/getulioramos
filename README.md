@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getulioramos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ge-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -32,3 +30,5 @@
   ![Snake animation](https://github.com/getulioramos/getulioramos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
